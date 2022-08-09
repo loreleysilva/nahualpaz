@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+
+}
+h1 {
+    color: crimson;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitulo {
+    color: darkcyan;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Anto {
+    color: darkkhaki;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contenedor{
+    border: 5px solid coral; 
+    padding: 20px;
+    width: 300px;
+    background-color: darkorange;
+} 
